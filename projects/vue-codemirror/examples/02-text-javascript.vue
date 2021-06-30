@@ -63,7 +63,7 @@
           import someResource from 'codemirror/some-resource'
           export default {
             data () {
-              // 这是一个包含、代码提示、折叠、选中、sublime模式...的编辑器
+              // 这是一个包含、代码提示、折叠、选中、sublime模式...的编辑器dz
               // 按下Ctrl键可以体验代码提示
               // 可以尝试sublime下的快捷键操作
               return {
